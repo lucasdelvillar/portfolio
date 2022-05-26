@@ -9,7 +9,7 @@ This is my portfolio website used to primarly showcase skills to potential clien
 
 **Tech used:** HTML, CSS, JavaScript
 
-The focus was on making a simple UI and a smooth UX. 
+The focus was on making a simple UI and smooth UX. 
 
 ## Optimizations / Modifications
 
