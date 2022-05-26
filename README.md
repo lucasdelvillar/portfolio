@@ -3,13 +3,13 @@ This is my portfolio website used to primarly showcase skills to potential clien
 
 **Link to project:** https://lucas-delvillar.netlify.app
 
-![alt tag](https://i.imgur.com/N495YW8.png)
+![alt tag](https://i.imgur.com/4HwGRgr.png)
 
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript
 
-The focus was on making a simple UI and a smooth UX. 
+The focus was on making a simple UI and smooth UX. 
 
 ## Optimizations / Modifications
 
