@@ -3,7 +3,7 @@ This is my portfolio website used to primarly showcase skills to potential clien
 
 **Link to project:** https://lucas-delvillar.netlify.app
 
-![alt tag](https://i.imgur.com/N495YW8.png)
+![alt tag](https://i.imgur.com/4HwGRgr.png)
 
 ## How It's Made:
 
